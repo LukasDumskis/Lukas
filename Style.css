@@ -1,0 +1,43 @@
+.mainTable {
+    position: absolute;
+    width: 674px;
+    height: 679px;
+    
+    background: #C4C4C4;
+    padding: 20px;
+}
+.contactBook {
+    width: 215px;
+    height: 28px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    background: #EAEAEA;
+    }
+.labelClass { 
+width: 216px;
+height: 20px;
+
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+background: #EAEAEA;
+
+}
+.secondTable {
+    position: absolute;
+    width: 606px;
+    height: 522px;
+
+    margin-left:auto; 
+    margin-right:auto;
+    
+    padding: 20px;
+    background: #EAEAEA;
+}

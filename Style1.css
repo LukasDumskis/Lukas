@@ -1,0 +1,51 @@
+#container {
+
+    position: absolute;
+    width: 674px;
+    height: 679px;
+background: #C4C4C4;
+margin-left: 35px;
+margin-top: 32px;
+
+}
+#list{
+
+    width: 606px;
+    height: 522px;
+    background: #EAEAEA;
+    margin-left: 35px;
+margin-top: 32px;
+
+}
+header {
+width: 606px;
+height: 39px;
+
+background: #EAEAEA;
+margin-left: 35px;
+margin-top: 32px;
+}
+
+#title {
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+ul {
+    list-style-image: url('Ellipse1.png');
+    margin-left: 69px;
+    padding: 30px;
+
+  }
+
+header {
+
+    text-align: center;
+  }
+
+.icons {
+
+    margin-left: 280px;
+}
